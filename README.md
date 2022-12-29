@@ -1,1 +1,1 @@
-# Bank-Dataset-K-means-clustering-with-PCA
+# Bank-Dataset-Kmeans-clustering-with-PCA
